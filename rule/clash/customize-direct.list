@@ -1,1 +1,7 @@
-#自定义-直连规则
+# 自定义-直连规则
+# PikPak access
+DOMAIN,toapp.mypikpak.com
+DOMAIN,access.mypikpak.com
+DOMAIN,api-drive.mypikpak.com
+DOMAIN,res-etl-ssl.mypikpak.com
+DOMAIN,mypikpak.com
