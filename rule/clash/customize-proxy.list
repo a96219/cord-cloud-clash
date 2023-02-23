@@ -1,3 +1,10 @@
 # cord-cloud
 DOMAIN-SUFFIX,c-cloud.xyz
 DOMAIN-SUFFIX,cordc.net
+
+# pikpak
+DOMAIN,toapp.mypikpak.com
+DOMAIN,access.mypikpak.com
+DOMAIN,api-drive.mypikpak.com
+DOMAIN,res-etl-ssl.mypikpak.com
+DOMAIN,mypikpak.com
