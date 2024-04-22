@@ -1,5 +1,5 @@
 # 自定义-直连规则
 DOMAIN,www.volcengine.com
 DOMAIN,portal.volccdn.com
-DOMAIN-KEYWORD,juejin
-DOMAIN-KEYWORD,jb51.net
+DOMAIN-SUFFIX,juejin.cn
+DOMAIN-SUFFIX,jb51.net
