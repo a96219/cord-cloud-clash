@@ -11,3 +11,6 @@ DOMAIN,mypikpak.com
 
 # googletagmanager
 DOMAIN-SUFFIX,googletagmanager.com
+
+# stream
+DOMAIN,steamcommunity.com
